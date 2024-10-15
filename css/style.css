@@ -2206,3 +2206,64 @@ hr {
 }
 
 /*# sourceMappingURL=style.css.map */
+/* update sheet style cascade for section foot page home */
+
+.call-to-action-app section{
+
+  background-color: red;
+}
+
+
+.section-telechargement-apps{
+
+  width: 100%;
+  height: 300px;
+  background-color: #02225B;
+}
+
+ .div_contenaire_apps{
+
+  width: 100%;
+  max-height: max-content;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 100px;
+}
+
+.div_btn_apps_android{
+
+ margin-left: 50px;
+  
+}
+
+.div_text_telechargement{
+
+  width: 100%;
+  height: 70px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 25dp;
+
+}
+
+.h2_message{
+
+  color: #FAFAFA;
+  font-style: normal;
+  font: bold;
+  padding: 3%;
+  
+}
+
+.h2_text_presentation_ebwakisa{
+
+  color: #FAFAFA;
+
+}
+
+.string_color{
+
+  color: #ffba00;
+}
